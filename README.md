@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OswinOz
-- 👀 I’m interested in data engineer 
-- 🌱 I’m currently learning Bsc & AWS certification
-- 💞️ I’m looking to collaborate on any knowledge on data engineering 
-- 📫 zendaoswin@gmail.com
+- 👀 I’m interested in data 
+- 🌱 I’m currently learning Bsc IT & AWS CERTIFIED
+- 💞️ I’m looking to collaborate on any knowledge on databases and analysis 
+- 📫 oswinzenda@gmail.com
 
 <!---
 OswinOz/OswinOz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
